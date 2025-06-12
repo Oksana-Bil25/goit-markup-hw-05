@@ -639,6 +639,7 @@ fill: #f4f4fd;
   max-width: 100%;
   height: auto;
   flex-grow: 1;
+  margin-left: 80px;
 }
 
 .footer-social-text {
@@ -652,11 +653,11 @@ margin-bottom: 16px;
 
 .footer-form {
 display: flex;
-gap: 24px;
-justify-content: space-between;
+
 }
 
 .footer-email {
+ 
 
 }
 .footer-input {
@@ -714,6 +715,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 text-align: center;
 color: #fff;
+margin-left: 24px;
 }
 
 .footer-icon-send {
